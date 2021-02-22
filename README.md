@@ -22,6 +22,6 @@ Project | Summary | Algorithm
 :---: | :---: | :---:
 [DAILY-MOMENTS](https://github.com/kva231/DAILY-MOMENTS) | [Spring-Framework-Practice](https://github.com/kva231/Spring-Framework-Practice) | [Baekjoon](https://github.com/kva231/Baekjoon)
 [JSP-Lecture-Evaluation-Service](https://github.com/kva231/JSP-Lecture-Evaluation-Service) | [Servlet-JSP-Summary](https://github.com/kva231/Servlet-JSP-Summary) | [Java-for-coding-test](https://github.com/kva231/Java-for-coding-test)
-[JSP-Bulletin-Board-System](https://github.com/kva231/JSP-Bulletin-Board-System) | [EFFECTIVE-JAVA-3E-Summary](https://github.com/kva231/EFFECTIVE-JAVA-3E-Summary) | [Java-for-coding-test](https://github.com/kva231/Java-for-coding-test)
+[JSP-Bulletin-Board-System](https://github.com/kva231/JSP-Bulletin-Board-System) | [EFFECTIVE-JAVA-3E-Summary](https://github.com/kva231/EFFECTIVE-JAVA-3E-Summary)
 [WebGame](https://github.com/kva231/WebGame) | [Clean-Code-Summary](https://github.com/kva231/Clean-Code-Summary)
 [Rhythm-Game](https://github.com/kva231/Rhythm-Game)
