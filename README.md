@@ -17,13 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
-
 ## Solved.ac
 ### [![Solved.ac profile-mini](http://mazassumnida.wtf/api/mini/generate_badge?boj=kva231)](https://solved.ac/kva231)
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kva231)](https://solved.ac/kva231)
 
-<br/>
 
 ## Repository
 Project | Summary | Algorithm
@@ -34,7 +31,6 @@ Project | Summary | Algorithm
 [WebGame](https://github.com/kva231/WebGame) | [Clean-Code-Summary](https://github.com/kva231/Clean-Code-Summary)
 [Rhythm-Game](https://github.com/kva231/Rhythm-Game)
 
-<br/>
 
 ## Tech Stack
 <p align="center"> <b>Tech's that I've used at least once</b> </p>
