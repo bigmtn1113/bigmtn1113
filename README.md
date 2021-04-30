@@ -24,16 +24,6 @@ Here are some ideas to get you started:
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kva231)](https://solved.ac/kva231)
 
 
-## Repository
-Project | Summary | Algorithm
-:---: | :---: | :---:
-[DAILY-MOMENTS](https://github.com/kva231/DAILY-MOMENTS) | [Spring-Framework-Practice](https://github.com/kva231/Spring-Framework-Practice) | [Baekjoon](https://github.com/kva231/Baekjoon)
-[JSP-Lecture-Evaluation-Service](https://github.com/kva231/JSP-Lecture-Evaluation-Service) | [Servlet-JSP-Summary](https://github.com/kva231/Servlet-JSP-Summary) | [Java-for-coding-test](https://github.com/kva231/Java-for-coding-test)
-[JSP-Bulletin-Board-System](https://github.com/kva231/JSP-Bulletin-Board-System) | [EFFECTIVE-JAVA-3E-Summary](https://github.com/kva231/EFFECTIVE-JAVA-3E-Summary)
-[WebGame](https://github.com/kva231/WebGame) | [Clean-Code-Summary](https://github.com/kva231/Clean-Code-Summary)
-[Rhythm-Game](https://github.com/kva231/Rhythm-Game)
-
-
 ## Tech Stack
 <p align="center"> <b>Tech's that I've used at least once</b> </p>
 
@@ -68,3 +58,13 @@ Project | Summary | Algorithm
 <p align="center">
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black"/>
 </p>
+
+
+## Repository
+Project | Summary | Algorithm
+:---: | :---: | :---:
+[DAILY-MOMENTS](https://github.com/kva231/DAILY-MOMENTS) | [Spring-Framework-Practice](https://github.com/kva231/Spring-Framework-Practice) | [Baekjoon](https://github.com/kva231/Baekjoon)
+[JSP-Lecture-Evaluation-Service](https://github.com/kva231/JSP-Lecture-Evaluation-Service) | [Servlet-JSP-Summary](https://github.com/kva231/Servlet-JSP-Summary) | [Java-for-coding-test](https://github.com/kva231/Java-for-coding-test)
+[JSP-Bulletin-Board-System](https://github.com/kva231/JSP-Bulletin-Board-System) | [EFFECTIVE-JAVA-3E-Summary](https://github.com/kva231/EFFECTIVE-JAVA-3E-Summary)
+[WebGame](https://github.com/kva231/WebGame) | [Clean-Code-Summary](https://github.com/kva231/Clean-Code-Summary)
+[Rhythm-Game](https://github.com/kva231/Rhythm-Game)
