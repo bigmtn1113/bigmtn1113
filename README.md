@@ -68,3 +68,8 @@ Project | Summary | Algorithm
 <p align="center">
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+</p>
