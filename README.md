@@ -29,6 +29,11 @@ Project | Summary | Algorithm
 [Rhythm-Game](https://github.com/kva231/Rhythm-Game)
 
 
+## Solved.ac
+### [![Solved.ac profile-mini](http://mazassumnida.wtf/api/mini/generate_badge?boj=kva231)](https://solved.ac/kva231)
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kva231)](https://solved.ac/kva231)
+
+
 ## Tech Stack
 <p align="center"> <b>Tech's that I've used at least once</b> </p>
 
@@ -63,8 +68,3 @@ Project | Summary | Algorithm
 <p align="center">
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black"/>
 </p>
-
-
-## Solved.ac
-### [![Solved.ac profile-mini](http://mazassumnida.wtf/api/mini/generate_badge?boj=kva231)](https://solved.ac/kva231)
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kva231)](https://solved.ac/kva231)
