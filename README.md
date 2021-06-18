@@ -56,6 +56,7 @@ Project | Summary | Algorithm
 
 <p align="center">
   <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 </p>
 
 <p align="center">
