@@ -68,6 +68,10 @@ Project | Summary | Algorithm
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+</p>
+
 <br/>
 
 <p align="center"> <b>Tech's that I've used at least once</b> </p>
