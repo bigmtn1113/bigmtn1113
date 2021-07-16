@@ -72,6 +72,8 @@ Project | Summary | Algorithm
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 </p>
 
@@ -96,5 +98,4 @@ Project | Summary | Algorithm
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 </p>
