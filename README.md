@@ -39,7 +39,6 @@ Project | Summary | Algorithm
 <p align="center"> <b>Tech's that I use recently</b> </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=black"/>
@@ -47,7 +46,6 @@ Project | Summary | Algorithm
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
@@ -59,16 +57,12 @@ Project | Summary | Algorithm
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=black"/>
 </p>
 
 <p align="center">
@@ -77,23 +71,38 @@ Project | Summary | Algorithm
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+</p>
+
 <br/>
 
 <p align="center"> <b>Tech's that I've used at least once</b> </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black"/>
 </p>
 
 <p align="center">
