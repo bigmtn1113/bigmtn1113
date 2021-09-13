@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 Type | Date | Contents | Organization
 :---: | :---: | :---: | :---:
 **Certificate** | 2021.09.13 | AZ-900: Microsoft Azure Fundamentals | Microsoft
-**Education** | 2021.05.31 ~ | Kubernetes 기반의 Cloud System Engineer 양성과정 | Korea Productivity Center, KPC
-**Education** | 2021.09.14 ~ 2021.12.10 | JAVA Developer 양성과정 | Korea Software Industry Association, KOSA
-
+**Education** | 2021.05.31 ~ | Kubernetes-based Cloud System Engineer Education | Korea Productivity Center, KPC
+**Education** | 2021.09.14 ~ 2021.12.10 | JAVA Developer Education | Korea Software Industry Association, KOSA
+**Awards** | 2020.12.10 | Korea Software Industry Association Excellent Prize | Korea Software Industry Association, KOSA
+**Certificate** | 2019.08.16 | Engineer Information Processing | Human Resources Development Service of Korea, HRDK
 
 
 ## 🌟Repository
