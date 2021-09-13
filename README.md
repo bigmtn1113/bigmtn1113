@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Career
+## 🌟Career
 Type | Date | Contents | Organization
 :---: | :---: | :---: | :---:
 **Certificate** | 2021.09.13 | AZ-900: Microsoft Azure Fundamentals | Microsoft
 
 
-## Repository
+## 🌟Repository
 Project | Summary | Algorithm
 :---: | :---: | :---:
 [DAILY-MOMENTS](https://github.com/kva231/DAILY-MOMENTS) | [Cloud-System-Engineer-Study](https://github.com/kva231/Cloud-System-Engineer-Study) | [Baekjoon](https://github.com/kva231/Baekjoon)
@@ -36,12 +36,12 @@ Project | Summary | Algorithm
 [Rhythm-Game](https://github.com/kva231/Rhythm-Game)
 
 
-## Solved.ac
+## 🌟Solved.ac
 ### [![Solved.ac profile-mini](http://mazassumnida.wtf/api/mini/generate_badge?boj=kva231)](https://solved.ac/kva231)
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kva231)](https://solved.ac/kva231)
 
 
-## Tech Stack
+## 🌟Tech Stack
 <p align="center"> <b>Tech's that I use recently</b> </p>
 
 <p align="center">
