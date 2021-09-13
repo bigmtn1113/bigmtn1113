@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Career
+Type | Date | Contents | Organization
+:---: | :---: | :---: | :---:
+**Certificate** | 2021.09.13 | AZ-900: Microsoft Azure Fundamentals | Microsoft
+
+
 ## Repository
 Project | Summary | Algorithm
 :---: | :---: | :---:
