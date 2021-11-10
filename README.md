@@ -22,13 +22,10 @@ Here are some ideas to get you started:
 ## 🌟Career
 Type | Date | Contents | Organization
 :---: | :---: | :---: | :---:
-🏆**Awards** | 2021.11.09. | Korea Productivity Center Top Prize | Korea Productivity Center, KPC
-📜**Certificate** | 2021.09.13. | AZ-900: Microsoft Azure Fundamentals | Microsoft
-📖**Education** | 2021.05.31. ~ 2021.11.09. | Kubernetes-based Cloud System Engineer Education | Korea Productivity Center, KPC
-🏆**Awards** | 2020.12.10. | Korea Software Industry Association Excellent Prize | Korea Software Industry Association, KOSA
-📖**Education** | 2020.09.14. ~ 2020.12.10. | JAVA Developer Education | Korea Software Industry Association, KOSA
-📜**Certificate** | 2019.08.16. | Engineer Information Processing | Human Resources Development Service of Korea, HRDK
-🎓**Bachelor Degree** | 2014.03.03. ~ 2020.02.21. | Computer engineering | Kumoh National Institute of Technology, KIT
+🏆**Awards** | - 2021.11.09.<br/> - 2020.12.10. | - Korea Productivity Center Top Prize<br/>- Korea Software Industry Association Excellent Prize | - Korea Productivity Center, KPC<br/>- Korea Software Industry Association, KOSA
+📜**Certificate** | - 2021.09.13.<br/>- 2019.08.16. | - AZ-900: Microsoft Azure Fundamentals<br/>- Engineer Information Processing | - Microsoft<br/>- Human Resources Development Service of Korea, HRDK
+📖**Education** | - 2021.05.31. ~ 2021.11.09.<br/>- 2020.09.14. ~ 2020.12.10. | - Kubernetes-based Cloud System Engineer Education<br/>- JAVA Developer Education | - Korea Productivity Center, KPC<br/>- Korea Software Industry Association, KOSA
+🎓**Bachelor Degree** | - 2014.03.03. ~ 2020.02.21. | - Computer engineering | - Kumoh National Institute of Technology, KIT
 
 
 ## 🌟Repository
