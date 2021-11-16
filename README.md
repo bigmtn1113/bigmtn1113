@@ -28,18 +28,6 @@ Type | Date | Contents | Organization
 🎓**Bachelor Degree** | - 2014.03.03. ~ 2020.02.21. | - Computer engineering | - Kumoh National Institute of Technology, KIT
 
 
-## 🌟Repository
-Project | Summary | Algorithm
-:---: | :---: | :---:
-[Daily-Log](https://github.com/kva231/Daily-Log) | [Cloud-System-Engineer-Study](https://github.com/kva231/Cloud-System-Engineer-Study) | [Baekjoon](https://github.com/kva231/Baekjoon)
-[DAILY-MOMENTS](https://github.com/kva231/DAILY-MOMENTS) | [Spring-Framework-Practice](https://github.com/kva231/Spring-Framework-Practice) | [Java-for-coding-test](https://github.com/kva231/Java-for-coding-test)
-[TodoList](https://github.com/kva231/TodoList) | [Servlet-JSP-Summary](https://github.com/kva231/Servlet-JSP-Summary)
-[JSP-Lecture-Evaluation-Service](https://github.com/kva231/JSP-Lecture-Evaluation-Service) | [EFFECTIVE-JAVA-3E-Summary](https://github.com/kva231/EFFECTIVE-JAVA-3E-Summary)
-[JSP-Bulletin-Board-System](https://github.com/kva231/JSP-Bulletin-Board-System) | [Clean-Code-Summary](https://github.com/kva231/Clean-Code-Summary)
-[WebGame](https://github.com/kva231/WebGame)
-[Rhythm-Game](https://github.com/kva231/Rhythm-Game)
-
-
 ## 🌟Solved.ac
 ### [![Solved.ac profile-mini](http://mazassumnida.wtf/api/mini/generate_badge?boj=kva231)](https://solved.ac/kva231)
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kva231)](https://solved.ac/kva231)
