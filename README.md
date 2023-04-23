@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 🌟Career
 Type | Date | Contents | Organization
 :---: | :---: | :---: | :---:
-🏢**Company** | - 2022.01.03. ~  | - AWS Solutions Architect(~ 2023.03.01)<br>- DevOps(2023.03.02 ~ ) | - MEGAZONE CLOUD, MZC
+🏢**Company** | - 2022.01.03. ~  | - DevOps Engineer<br>(2023.03.02 ~ )<br>- AWS Solutions Architect<br>(2022.01.03 ~ 2023.03.01) | - MEGAZONE CLOUD, MZC
 🏆**Awards** | - 2021.11.09.<br/> - 2020.12.10. | - Korea Productivity Center Top Prize<br/>- Korea Software Industry Association Excellent Prize | - Korea Productivity Center, KPC<br/>- Korea Software Industry Association, KOSA
 📜**Certificate** | - 2021.11.11.<br/>- 2021.09.13.<br/>- 2019.08.16. | - SAA-C02: AWS Certified Solutions Architect - Associate<br/>- AZ-900: Microsoft Azure Fundamentals<br/>- Engineer Information Processing | - Amazon Web Services, AWS<br/>- Microsoft<br/>- Human Resources Development Service of Korea, HRDK
 📖**Education** | - 2021.05.31. ~ 2021.11.09.<br/>- 2020.09.14. ~ 2020.12.10. | - Kubernetes-based Cloud System Engineer Education<br/>- JAVA Developer Education | - Korea Productivity Center, KPC<br/>- Korea Software Industry Association, KOSA
