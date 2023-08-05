@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 🌟Career
 Type | Date | Contents | Organization
 :---: | :---: | :---: | :---:
-🏢**Company** | - 2023.07.10. ~ <br/><br/>- 2022.01.03. ~ 2023.07.07 | - DevOps Engineer<br>(2023.07.10 ~ )<br><br/> - DevOps Engineer<br>(2023.03.02 ~ 2023.07.07)<br>- AWS Solutions Architect<br>(2022.01.03 ~ 2023.03.01) | - Hyundai AutoEver, HAE<br><br/>- MEGAZONE CLOUD, MZC
+🏢**Company** | - 2023.07.10. ~ <br/><br/>- 2022.01.03. ~ 2023.07.07 | - Platform Engineer<br>(2023.07.10 ~ )<br><br/> - DevOps Engineer<br>(2023.03.02 ~ 2023.07.07)<br>- AWS Solutions Architect<br>(2022.01.03 ~ 2023.03.01) | - Hyundai AutoEver, HAE<br><br/>- MEGAZONE CLOUD, MZC
 🏆**Awards** | - 2021.11.09.<br/><br/> - 2020.12.10. | - Korea Productivity Center Top Prize<br/><br/>- Korea Software Industry Association Excellent Prize | - Korea Productivity Center, KPC<br/><br/>- Korea Software Industry Association, KOSA
 📜**Certificate** | - 2021.11.11.<br/><br/>- 2021.09.13.<br/><br/>- 2019.08.16. | - SAA-C02: AWS Certified Solutions Architect - Associate<br/><br/>- AZ-900: Microsoft Azure Fundamentals<br/><br/>- Engineer Information Processing | - Amazon Web Services, AWS<br/><br/>- Microsoft<br/><br/>- Human Resources Development Service of Korea, HRDK
 📖**Education** | - 2021.05.31. ~ 2021.11.09.<br/><br/>- 2020.09.14. ~ 2020.12.10. | - Kubernetes-based Cloud System Engineer Education<br/><br/>- JAVA Developer Education | - Korea Productivity Center, KPC<br/><br/>- Korea Software Industry Association, KOSA
