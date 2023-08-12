@@ -36,7 +36,31 @@ Type | Date | Contents | Organization
 
 ## 🌟Tech Stack
 <p align="center"> <b>Tech's that I use recently</b> </p>
-<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=Jira"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=Confluence"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=Bitbucket"/>
+  <img src="https://img.shields.io/badge/Bamboo-0052CC?logo=Bamboo"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=GitLab"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=SonarQube&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Harbor-60B932?logo=Harbor&logoColor=white"/>
+</p>
 
 <p align="center"> <b>Tech's that I've used at least once</b> </p>
 
